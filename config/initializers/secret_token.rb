@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-FinalMobil::Application.config.secret_key_base = '5252c84044a4e6605ed9bc930a221964f24617d770fd43650ff9644600bb326c0b08915ef248d092ced40aaf57e8e6d3d03c9257c9d364162d35384c50c3af55'
+FinalMobil::Application.config.secret_key_base = '0f6e9a9e8cd70fbe62ea924a083a7645d9847378e3aadb28fef8178e1d6ba6c3dba4ec67aaaef859bfa50b68323663118b2b02596f8dd71574241c3a3b194536'
